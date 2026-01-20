@@ -30,7 +30,7 @@ export default function About() {
                         authentication, and full-stack web application development.
                     </p>
                     <a
-                        href=""
+                        href="https://drive.google.com/file/d/1l4DXm8RP4qzxEftTgrcetaPtntVHVo-B/view?usp=drive_link"
                         target="_blank"
                         className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
                         style={{
